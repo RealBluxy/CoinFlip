@@ -1,5 +1,5 @@
 # CoinFlip
 Simple CoinFlip Plugin For PMMP!
 
-##Commands:
+## Commands:
 - `/coinflip` Flips A Coin! returns heads or tails
