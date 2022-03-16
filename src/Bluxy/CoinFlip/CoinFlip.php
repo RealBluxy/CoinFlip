@@ -23,8 +23,6 @@
  *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  *    GNU General Public License for more details.
  *
- *    Note : If You Found Any Isuess Or Suggestions Please Contact Me On Discord : "Blux#4061"
- *
 */
 
 declare(strict_types = 1);
